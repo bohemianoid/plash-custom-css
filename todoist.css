@@ -1,0 +1,25 @@
+#top_bar,
+#left_menu,
+.smart_schedule_link,
+.agenda_add_task,
+.loading_screen--logo {
+  display: none !important;
+}
+
+::-webkit-scrollbar {
+  width: 0 !important;
+}
+
+html,
+body,
+#page_background,
+#content_wrapper,
+#content,
+.loading_screen {
+  background-color: transparent !important;
+}
+
+#content {
+  border: none !important;
+  margin-right: 305px;
+}
