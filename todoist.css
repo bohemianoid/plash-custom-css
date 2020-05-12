@@ -2,7 +2,8 @@
 #left_menu,
 .smart_schedule_link,
 .agenda_add_task,
-.loading_screen--logo {
+.loading_screen--logo,
+.sharing {
   display: none !important;
 }
 
