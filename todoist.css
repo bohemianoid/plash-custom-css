@@ -16,7 +16,8 @@ body,
 #page_background,
 #content_wrapper,
 #content,
-.loading_screen {
+.loading_screen,
+.task_list_item {
   background-color: transparent !important;
 }
 
