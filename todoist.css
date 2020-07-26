@@ -17,7 +17,8 @@ body,
 #content_wrapper,
 #content,
 .loading_screen,
-.task_list_item {
+.task_list_item,
+.view_header {
   background-color: transparent !important;
 }
 
