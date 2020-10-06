@@ -3,7 +3,8 @@
 .smart_schedule_link,
 .agenda_add_task,
 .loading_screen--logo,
-.sharing {
+.sharing,
+.task_actions {
   display: none !important;
 }
 
