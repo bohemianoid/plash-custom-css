@@ -4,7 +4,8 @@
 .agenda_add_task,
 .loading_screen--logo,
 .sharing,
-.task_actions {
+.task_actions,
+.promotion_banner {
   display: none !important;
 }
 
