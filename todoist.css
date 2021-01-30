@@ -20,7 +20,8 @@ body,
 #content,
 .loading_screen,
 .task_list_item,
-.view_header {
+.view_header,
+.section header {
   background-color: transparent !important;
 }
 
