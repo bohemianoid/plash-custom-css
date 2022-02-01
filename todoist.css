@@ -29,3 +29,11 @@ body,
   border: none !important;
   margin-right: 305px;
 }
+
+#editor {
+  justify-content: center;
+}
+
+.view_header {
+  padding-top: 0;
+}
