@@ -9,7 +9,10 @@
 .view_header__content h1 small,
 .view_header__actions,
 .section_head__actions,
-.task_list_item__project {
+.task_list_item__project,
+.empty-state-header,
+.empty-state-button,
+.empty-state-footer {
   display: none !important;
 }
 
